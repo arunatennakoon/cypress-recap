@@ -1,0 +1,24 @@
+{
+  "name": "cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arunatennakoon/cypress-recap.git"
+  },
+  "author": "expound",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arunatennakoon/cypress-recap/issues"
+  },
+  "homepage": "https://github.com/arunatennakoon/cypress-recap#readme",
+  "dependencies": {
+    "cypress": "^11.2.0",
+    "express": "^4.18.2",
+    "joi": "^13.1.0"
+  }
+}
